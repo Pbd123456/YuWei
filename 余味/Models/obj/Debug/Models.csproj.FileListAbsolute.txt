@@ -1,0 +1,12 @@
+E:\s173\小项目\期末项目\余味管理系统\Models\bin\Debug\Models.dll
+E:\s173\小项目\期末项目\余味管理系统\Models\bin\Debug\Models.pdb
+E:\s173\小项目\期末项目\余味管理系统\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+E:\s173\小项目\期末项目\余味管理系统\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+E:\s173\小项目\期末项目\余味管理系统\Models\obj\Debug\Models.dll
+E:\s173\小项目\期末项目\余味管理系统\Models\obj\Debug\Models.pdb
+D:\项目\余味\Models\bin\Debug\Models.dll
+D:\项目\余味\Models\bin\Debug\Models.pdb
+D:\项目\余味\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\项目\余味\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\项目\余味\Models\obj\Debug\Models.dll
+D:\项目\余味\Models\obj\Debug\Models.pdb
